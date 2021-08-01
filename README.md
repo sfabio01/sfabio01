@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Fabio
-- 👀 I’m interested in mobile development
-- 🌱 I’m currently learning Flutter, Firebase
+- 👀 I’m interested software development and entrepreneurship
+- 🌱 I’m currently learning Flutter, Firebase, Svelte, Chrome extension
 - 📫 fabiosabbion.apps@gmail.com
 
 <!---
