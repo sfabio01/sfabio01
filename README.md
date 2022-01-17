@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Fabio
 - 👀 I’m interested software development and entrepreneurship
-- 🌱 I’m currently learning Blockchain
+- 🌱 I’m currently learning Machine Learning
 - 📫 fabiosabbion.apps@gmail.com
 
 <!---
