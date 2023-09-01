@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Fabio
-- 👀 I’m interested software development and entrepreneurship
-- 🌱 I’m currently learning Machine Learning
+- 👀 I’m interested in AI and entrepreneurship
+- 🎓 I’m studying Machine Learning @ KTH Royal Institute of Technology
 - 📫 fabiosabbion.apps@gmail.com
 
 <!---
