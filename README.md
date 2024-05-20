@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Fabio
-- 👀 I’m interested in AI and entrepreneurship
+- 👀 I’m interested in AI and software engineering
 - 🎓 I’m studying Machine Learning @ KTH Royal Institute of Technology
 - 📫 fabiosabbion.apps@gmail.com
 
